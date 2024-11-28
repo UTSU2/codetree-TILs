@@ -1,4 +1,4 @@
-const [a,b]=[2,5];
+let [a,b]=[2,5];
 
 let tmp = a;
 a = b;
